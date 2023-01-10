@@ -85,5 +85,5 @@ export interface ITipoDispositivo {
   nombre: TipoDispositivo;
   integrationUrl?: string;
   loraServers?: IConfigLora[];
-  parseo?: IParseo;
+  parseo?: IParseo[];
 }
